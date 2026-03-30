@@ -1,0 +1,5 @@
+john.doe@email.com ivytech_jdoe@ivytech.edu 192.168.1.15 260-555-1234 91-260-555-1234 SDEV265 2025-11-04 08:30 $1,250
+jane.smith@email.com ivytech_jsmith@ivytech.edu 10.24.8.200 317-555-4567 91-317-555-4567 CSCI202 2025-11-05 10:15 $950
+alex.brown@email.com ivytech_abrown@ivytech.edu 172.16.0.45 765-555-8888 91-765-555-8888 MATH123 2025-11-06 01:45 $2,100
+lisa.white@email.com ivytech_lwhite@ivytech.edu 8.8.8.8 574-555-2222 91-574-555-2222 ENGL111 2025-11-07 12:00 $75.50
+mark.green@email.com ivytech_mgreen@ivytech.edu 203.0.113.25 812-555-9999 91-812-555-9999 HIST101 2025-11-08 03:20 $3,000.00
